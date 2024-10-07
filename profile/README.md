@@ -18,6 +18,8 @@
 - Open Source Telephony
 - SIP Protocol Training & Consultancy
 - Cybersecurity Analysis
+- Conversational AI & LLMs
+- AI Automation
 
 ## :handshake: Values
 Committed to innovation, reliability, and customer satisfaction.
